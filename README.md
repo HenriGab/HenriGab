@@ -1,6 +1,6 @@
 ### Seja bem-vindo! Me chamo Henrique Gabriel
 - 🤠Estudante de engenharia da computação
-- 😎Pronomes: ele/dele]
+- 😎Pronomes: ele/dele
 ##
 
 
