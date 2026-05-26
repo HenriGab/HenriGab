@@ -11,7 +11,6 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e in
 - 🎼 Apaixonado por música e exploro formas de unir tecnologia.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrigab&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="H-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
